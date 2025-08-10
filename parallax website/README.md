@@ -12,6 +12,8 @@ This project demonstrates how to create a smooth parallax effect using backgroun
 
 🖼 Preview
 
+- Live Preview => https://easy-parallax-website.netlify.app/
+
 <img width="1024" height="1536" alt="parallax_website" src="https://github.com/user-attachments/assets/380cfb0d-5590-4fe1-8d00-8a59c129abdf" />
 
 
