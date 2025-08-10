@@ -15,3 +15,9 @@ It includes:
 - **HTML5** – for semantic and structured web pages
 - **CSS3** – for styling, layout, and responsiveness
 
+## 🌐 Projects
+- Parallax website
+- Live preview => https://easy-parallax-website.netlify.app/
+
+
+
