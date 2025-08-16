@@ -19,7 +19,7 @@ This project showcases a landing page design for a music platform like iTunes, w
 
 ## 🚀 Live Demo  
 
-👉 [myTunes](#) *(https://music-mytunes.netlify.app/)*  
+👉 [myTunes](#) => *https://music-mytunes.netlify.app/*  
 
 ---
 
